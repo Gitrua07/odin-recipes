@@ -1,0 +1,24 @@
+.home,
+.main {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+p,
+li,
+.main-link {
+    font-size: 16px;
+    font-family: "Verdana", sans-serif;
+}
+
+.home {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
+
