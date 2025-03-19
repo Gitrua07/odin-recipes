@@ -11,9 +11,12 @@ There are 3 important organizational elements:
 
 ## Image Credits
 
+### Fried Rice
 Photo by <a href="https://unsplash.com/@krizphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christopher Alvarenga</a> on <a href="https://unsplash.com/photos/brown-and-green-dish-on-white-ceramic-plate-rQX9eVpSFz8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
+### Japanese Curry
 Photo by <a href="https://unsplash.com/@eastcoastkitchen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andy Hay</a> on <a href="https://unsplash.com/photos/cooked-food-on-stainless-steel-bowl-ZN-TT10kf4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
+### Marinara Pasta with Broccoli
 Photo by <a href="https://unsplash.com/@myshegotripped?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mandy Bourke</a> on <a href="https://unsplash.com/photos/a-plate-of-spaghetti-with-tomato-sauce-and-parsley-Htb3Neu9Tmg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
