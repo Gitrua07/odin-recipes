@@ -1,6 +1,6 @@
 # odin-recipes
 
-# Description:
+# Description
 This project is an assignment for *The Odin Project* Foundation's Course. I created a recipe website that holds a collection
 of favourite recipes.
 
