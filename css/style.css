@@ -5,19 +5,30 @@
 
 p,
 li,
-.main-link {
+.link,
+.home,
+.main-link{
     font-size: 16px;
+}
+
+p,
+li,
+.main-link {
     font-family: "Verdana", sans-serif;
 }
 
 .home {
-    font-size: 16px;
     font-weight: 700;
 }
 
 img {
     width: 500px;
     height: auto;
+}
+
+.link,
+.index {
+    text-align:center;
 }
 
 
