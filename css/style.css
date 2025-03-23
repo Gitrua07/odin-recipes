@@ -3,7 +3,12 @@
 }
 
 .all{
-    margin: 20px auto;
+    margin: 80px;
+}
+
+.home{
+    display: block;
+    padding: 20px 30px;
 }
 
 .home,
